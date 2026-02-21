@@ -13,8 +13,8 @@ I just doing my first GitHub project so it is just a test.
 
 ## How to test
 
-Explain how to use your project
+Just a test with NAND gates.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I use NAND gates, wires, display.
